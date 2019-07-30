@@ -11,4 +11,4 @@ zuul:
       serviceId: plat-service
       path: /product/**
       serviceId: product-server
-  prefix: /services #请求前缀
+  prefix: /services #请求前
