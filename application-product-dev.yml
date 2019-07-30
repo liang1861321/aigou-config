@@ -4,9 +4,3 @@ spring:
   application:
     name: product-server
     # 配置
-spring:
-    datasource:
-        driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql:///mybatisplus
-        username: root
-        password: root
