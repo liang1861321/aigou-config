@@ -9,4 +9,7 @@ zuul:
     plat:
       path: /plat/** #平台服务的请求路径
       serviceId: plat-service
+    product:
+      path: /product/** #平台服务的请求路径
+      serviceId: product-server
   prefix: /services #请求前缀
